@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: "/img/avatar-icon.png"
+title: "Kadir Tekeli"
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -56,7 +56,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+ page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
