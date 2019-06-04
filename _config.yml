@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Kadir Tekeli
+title: "/img/avatar-icon.png"
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -27,6 +27,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - Audio Steganography Algorithms: "https://github.com/ktekeli/audio-steganography-algorithms"
+  Home: "https://repo-404-notfound.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
