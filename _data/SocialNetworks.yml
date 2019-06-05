@@ -99,4 +99,4 @@ yelp:
 researchgate:
   name: "Researchgate"
   baseURL: "https://www.researchgate.net/profile/"
-  icon: "fa-resarchgate"  
+  icon: "fab fa-researchgate"  
